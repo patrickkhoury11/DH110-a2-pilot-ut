@@ -1,3 +1,3 @@
-# Patrick Khoury | DH110 | Assignment A2 - Pilot UT | Dr. Sookie Cho
+## Patrick Khoury | DH110 | Assignment A2 - Pilot UT | Dr. Sookie Cho
 
-##
+#
