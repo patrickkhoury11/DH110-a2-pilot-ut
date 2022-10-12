@@ -1,4 +1,4 @@
-### Patrick Khoury | DH110 | A2 - Pilot UT | Dr. Sookie Cho
+## Patrick Khoury | DH110 | Assignment A2 - Pilot UT | Dr. Sookie Cho
 
 ### Paragraph explaining the purpose of UT, how & what I want to test based on the findings of my heuristic evaluation
 
