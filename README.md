@@ -1,15 +1,19 @@
 ## Patrick Khoury | DH110 | Assignment A2 - Pilot UT | Dr. Sookie Cho
 
 ### Intro 
-The Department of Economic and Social Affairs (DESA) Sustainable Development is a department run by the United Nations, an intergovernmental organization made up of 193 member states committed to maintaining peace, dignity, and equality on a healthy planet. Based on a global survey, conducted by international research agency Glocalities, indicates that the United Nations is trusted significantly more by the world population than any other international or governmental organization.
+The [Department of Economic and Social Affairs (DESA) Sustainable Development](https://sdgs.un.org/) is a department run by the United Nations, an intergovernmental organization made up of 193 member states committed to maintaining peace, dignity, and equality on a healthy planet. Based on a global survey, conducted by international research agency Glocalities, indicates that the United Nations is trusted significantly more by the world population than any other international or governmental organization.
 
 In this sector, the United Nations defines 17 Sustainable Department Goals (SDG) for all. The purpose of this website is to help inspire and mobilize actions promoting the implementation of SDGs around the world. Using the latest data and estimates, the annual SDG report provides an overview of the world’s implementation efforts to date.
 
 For DESA Sustainable Development, severe usability issues I found from my heuristic evaluation were as follows:
+- Faulty Search Bar
+- No Help Page/FAQ
+- Inconsistent Pages
+- Gap in Match Between System and the Real World
 
 ### Methods
 
-For my usability test, I performed it in my dorm using my personal laptop. I used ActivePresenter to record my usability test. The session recorded the screen, me and the user, and audio. This usability test is a pilot test, and my roommate was the user.
+For my usability test, I performed it in my apartment using my personal laptop. I used Zoom to record my usability test. The session recorded the myself, the user, the user's screen, and both our audio. This usability test is a pilot test, and my friend acted as the participant.
 
 The process of the usability test was as follows:
 
@@ -42,7 +46,12 @@ The purpose of UT is to identify possible pain points of the tested product/desi
 
 [Moderator Script and Participant Survey](https://docs.google.com/forms/d/e/1FAIpQLSfsuEhaCOmYYU27fxbJnBUxGWZ8s4q4AER4zsILIpnkA0vYSw/viewform?usp=sharing)
 
-### Link to pilot UT video
+[Collaborator View for Dr. Cho](https://docs.google.com/forms/d/1IMpxrTO5W5zfhciXYe9-8c_dK2U9DyDufTRhsYFrSrU/edit)
+
+### Link to pilot UT video:
+
+[Youtube Link](https://youtu.be/_sK8qYZVGpk)
+[Google Drive Link](https://drive.google.com/file/d/1JKIkBLc0IrmFjmH_Qzn_EVcD-fUfoW7C/view?usp=sharing)
 
 ### Paragraph describing what I have learned during pilot test, what went well and what did not go well, focusing on how I want to improve my UT in the future
 
