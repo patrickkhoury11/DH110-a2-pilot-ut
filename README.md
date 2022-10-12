@@ -1,12 +1,37 @@
 ## Patrick Khoury | DH110 | Assignment A2 - Pilot UT | Dr. Sookie Cho
 
+### Intro 
 The Department of Economic and Social Affairs (DESA) Sustainable Development is a department run by the United Nations, an intergovernmental organization made up of 193 member states committed to maintaining peace, dignity, and equality on a healthy planet. Based on a global survey, conducted by international research agency Glocalities, indicates that the United Nations is trusted significantly more by the world population than any other international or governmental organization.
 
 In this sector, the United Nations defines 17 Sustainable Department Goals (SDG) for all. The purpose of this website is to help inspire and mobilize actions promoting the implementation of SDGs around the world. Using the latest data and estimates, the annual SDG report provides an overview of the world’s implementation efforts to date.
 
 For DESA Sustainable Development, severe usability issues I found from my heuristic evaluation were as follows:
 
+### Methods
 
+For my usability test, I performed it in my dorm using my personal laptop. I used ActivePresenter to record my usability test. The session recorded the screen, me and the user, and audio. This usability test is a pilot test, and my roommate was the user.
+
+The process of the usability test was as follows:
+
+- Intro
+- Background questions
+- Previous experience questions
+- Pre-test questions
+- Tasks
+- Post-test questions
+- SUS questionnaire
+- Product satisfaction card
+- Demographics
+
+The following results were measured (many using the seven-point Likert scale):
+
+- Ease of use
+- Frequency of use
+- Learn ability
+- Trustworthiness
+- Site organization
+- Site content
+- How the user felt after using site
 
 ### Paragraph explaining the purpose of UT, how & what I want to test based on the findings of my heuristic evaluation
 
